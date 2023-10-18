@@ -4,7 +4,7 @@
 }
 
 .bg-color-header{
-    background: rgb(165, 230, 230);
+    background: #7D8CA3;
 }
 
 .navbar-brand{
@@ -31,7 +31,7 @@ img{
     height: 35rem;
 }
 
-.bi-cart4{
+.bi-cart4, .bi-cake, .bi-android, .bi-airplane-fill {
     font-size: 3rem;
 }
 
